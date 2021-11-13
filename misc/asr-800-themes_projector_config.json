@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "ASR 800 thèmes professionnels pour Embedding Projector",
+      "tensorShape": [
+        814,
+        300
+      ],
+      "tensorPath": "https://gist.githubusercontent.com/jmasclef/4cf7686df0828c7bae602ea037593d15/raw/998562a354c93fe079a89dcd69e6d9c6cfcb83df/asr-themes-sample_300d.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/jmasclef/4cf7686df0828c7bae602ea037593d15/raw/998562a354c93fe079a89dcd69e6d9c6cfcb83df/labels.tsv"
+    }
+  ]
+}
