@@ -6,8 +6,8 @@
         814,
         300
       ],
-      "tensorPath": "https://gist.githubusercontent.com/jmasclef/4cf7686df0828c7bae602ea037593d15/raw/998562a354c93fe079a89dcd69e6d9c6cfcb83df/asr-themes-sample_300d.tsv",
-      "metadataPath": "https://gist.githubusercontent.com/jmasclef/4cf7686df0828c7bae602ea037593d15/raw/998562a354c93fe079a89dcd69e6d9c6cfcb83df/labels.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/misc/asr-800-themes_wv.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/misc/asr-800-themes_labels.tsv"
     }
   ]
 }
