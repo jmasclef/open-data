@@ -6,8 +6,8 @@
         814,
         300
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/d3/asr-800-themes_wv.tsv",
-      "metadataPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/d3/asr-800-themes_labels.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/projector/asr-800-themes_wv.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/projector/asr-800-themes_labels.tsv"
     }
   ]
 }
