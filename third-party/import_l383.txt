@@ -1,0 +1,6 @@
+from asr_framework.asr_utils import asr_import_lexique383tsv
+from asr_framework.asr_persistent import *
+rules_dict, frenchWords_list, accented_lemmas_suggestions = asr_import_lexique383tsv()
+asr_save_csv_rules(rules_dict=rules_dict,file_name="lemmas_rules.csv",base_dir="./open-data/dictionnaires")
+asr_save_csv_rules(rules_dict=accented_lemmas_suggestions,file_name="table_lemmes_accents.csv",base_dir="./open-data/dictionnaires")
+asr_save_doc(document=frenchWords_list,file_name="liste_mots_francais.txt",base_dir="./open-data/dictionnaires")
