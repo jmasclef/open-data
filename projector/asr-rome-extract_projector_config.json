@@ -6,8 +6,8 @@
         10228,
         300
       ],
-      "tensorPath": "https://drive.google.com/file/d/1G8XJRUpKEriUXoknNuK0mGAXQeFbIxgB/view?usp=sharing",
-      "metadataPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/projector/asr-rome-extract_wv.tsv"
+      "tensorPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/projector/asr-rome-extract_wv.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/jmasclef/open-data/master/projector/asr-rome-extract_labels.tsv"
     }
   ]
 }
